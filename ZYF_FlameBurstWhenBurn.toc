@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: ZYF's Fire Mage FlameBurst Count When Burn
+## Notes: ZYF's Fire Mage FlameBurst Count When Burn
+## RequiredDeps: !Lib_ZYF
+## DefaultState: Enabled
+## Author: ZYF
+## SavedVariables: ZYF_FlameBurstWhenBurn
+## Version: 0.01
+ZYF_FlameBurstWhenBurn.lua
